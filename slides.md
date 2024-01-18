@@ -90,7 +90,7 @@ Tom Engélibert - Exercice Git
 
 # Image
 
-<img src="git.png">
+![The San Juan Mountains are beautiful!](git.png)
 
 --- { "layout" : "center" }
 
