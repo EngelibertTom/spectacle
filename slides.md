@@ -78,13 +78,13 @@ Tom Engélibert - Exercice Git
 
 # Liste des messages de commit
 
-- feat
-- fix
-- docs
-- style
-- refactor
-- test
-- chore
+1. feat
+2. fix
+3. docs
+4. style
+5. refactor
+6. test
+7. chore
 
 --- { "layout" : "center" }
 
