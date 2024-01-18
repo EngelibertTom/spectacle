@@ -38,3 +38,7 @@
 # Create a new branch
 
 - git branch 'name'
+
+# Work on a branch
+
+- git checkout 'branch'
