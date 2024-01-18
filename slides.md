@@ -112,12 +112,10 @@ voici comment écrire dans un bloc code
 Text content
 </span>
 
-# Problèmes liés
-
-<!-- Référencez ici les problèmes qui sont résolus ou liés par cette pull request. -->
+--- { "layout" : "center" }
 
 Fixes #<numéro_du_problème>
-
+--- { "layout" : "center" }
 # How to automate issue closing
 
 gcmsg 'feat: automation FTW closes #1'
