@@ -85,3 +85,9 @@ Tom Engélibert - Exercice Git
 - refactor
 - test
 - chore
+
+--- { "layout" : "center" }
+
+# Image
+
+<img src="git.png">
