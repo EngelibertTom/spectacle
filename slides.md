@@ -14,3 +14,11 @@
 - git push -u origin main
 
 
+--- { "layout" : "center" }
+# How to review changes
+
+- git status
+
+- git dif
+
+- git log 
