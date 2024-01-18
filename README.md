@@ -1,6 +1,6 @@
-# spectacle-engelibertTom
+# ECV - bonnes pratiques Github
 
-Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
+Projet réalisé avec  [Spectacle](https://github.com/FormidableLabs/spectacle/). by Tom Engélibert.
 
 ## Running your presentation
 
