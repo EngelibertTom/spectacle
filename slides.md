@@ -22,3 +22,13 @@
 - git dif
 
 - git log 
+
+--- { "layout" : "center" }
+
+# How to review changes
+
+- git add 'filename'
+
+- git commit -m 'message'
+
+- git push 
