@@ -102,4 +102,8 @@ Tom Engélibert - Exercice Git
 # Code
 
 ```
-voici comment écrire dans un bloc code 
+voici comment écrire dans un bloc code
+```
+
+--- { "layout" : "center" }
+# Extras
