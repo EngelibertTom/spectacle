@@ -111,3 +111,13 @@ voici comment écrire dans un bloc code
 <span style="color:red">
 Text content
 </span>
+
+# Problèmes liés
+
+<!-- Référencez ici les problèmes qui sont résolus ou liés par cette pull request. -->
+
+Fixes #<numéro_du_problème>
+
+# How to automate issue closing
+
+gcmsg 'feat: automation FTW closes #1'
