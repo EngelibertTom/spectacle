@@ -39,13 +39,19 @@
 
 - git branch 'name'
 
+--- { "layout" : "center" }
+
 # Work on a branch
 
 - git checkout 'branch'
 
+--- { "layout" : "center" }
+
 # Merge branch on main
 
 - git merge 'branch'
+
+--- { "layout" : "center" }
 
 # Delete a branch
 
