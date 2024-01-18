@@ -137,8 +137,4 @@ git stash pop
 --- { "layout" : "center" }
 # How to rebase
 
---- { "layout" : "center" }
-# How to rebasex2 
 
---- { "layout" : "center" }
-# How to rebasex3 
