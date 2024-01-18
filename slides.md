@@ -113,9 +113,6 @@ Text content
 </span>
 
 --- { "layout" : "center" }
-
-Fixes #<numéro_du_problème>
---- { "layout" : "center" }
 # How to automate issue closing
 
 gcmsg 'feat: automation FTW closes #1'
