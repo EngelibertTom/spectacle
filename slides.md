@@ -60,3 +60,7 @@
 --- { "layout" : "center" }
 
 # Pushing changes to remote
+
+--- { "layout" : "center" }
+
+# Pulling changes from remote
