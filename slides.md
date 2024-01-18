@@ -72,7 +72,7 @@ Tom Engélibert - Exercice Git
 
 # Text
 
-<h2>Comment faire un beau fichier ReadMe ?</h2>
+<p>Comment faire un beau fichier ReadMe ?<p>
 
 --- { "layout" : "center" }
 
@@ -91,3 +91,9 @@ Tom Engélibert - Exercice Git
 # Image
 
 <img src="git.png">
+
+--- { "layout" : "center" }
+
+# Headers & Quotes
+
+> Voici comment faire une quotes
