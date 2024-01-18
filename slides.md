@@ -123,3 +123,9 @@ gcmsg 'feat: automation FTW closes #1'
 --- { "layout" : "center" }
 # How to apply commit
 git cherry-pick YOURSHA1
+
+
+--- { "layout" : "center" }
+# How to use git fragments
+git stash
+git stash pop 
