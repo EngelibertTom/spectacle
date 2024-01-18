@@ -132,3 +132,10 @@ git stash pop
 
 --- { "layout" : "center" }
 # How to fix last commit message
+
+
+--- { "layout" : "center" }
+# How to rebase
+
+--- { "layout" : "center" }
+# How to rebasex2 
