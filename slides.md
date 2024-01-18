@@ -73,3 +73,15 @@ Tom Engélibert - Exercice Git
 # Text
 
 <h2>Comment faire un beau fichier ReadMe ?</h2>
+
+--- { "layout" : "center" }
+
+# Liste des messages de commit
+
+- feat
+- fix
+- docs
+- style
+- refactor
+- test
+- chore
