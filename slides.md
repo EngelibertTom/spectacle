@@ -1,5 +1,16 @@
 --- { "layout" : "center" }
-# spectacle-engelibertTom
+# Tom Engélibert - Exercice Git
 
----
-- Made with Spectacle
+
+
+--- { "layout" : "center" }
+# How to initialise a new repository
+
+
+- git init
+
+- git remote add origin
+  
+- git push -u origin main
+
+
