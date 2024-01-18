@@ -46,3 +46,7 @@
 # Merge branch on main
 
 - git merge 'branch'
+
+# Delete a branch
+
+- git branch -d 'branch'
