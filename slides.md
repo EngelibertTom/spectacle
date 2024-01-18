@@ -56,3 +56,7 @@
 # Delete a branch
 
 - git branch -d 'branch'
+
+--- { "layout" : "center" }
+
+# Pushing changes to remote
