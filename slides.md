@@ -97,3 +97,9 @@ Tom Engélibert - Exercice Git
 # Headers & Quotes
 
 > Voici comment faire une quotes
+
+--- { "layout" : "center" }
+# Code
+
+```
+voici comment écrire dans un bloc code 
