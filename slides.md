@@ -129,6 +129,3 @@ git cherry-pick YOURSHA1
 # How to use git fragments
 git stash
 git stash pop 
-
---- { "layout" : "center" }
-# This one will be reverted
