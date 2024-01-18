@@ -42,3 +42,7 @@
 # Work on a branch
 
 - git checkout 'branch'
+
+# Merge branch on main
+
+- git merge 'branch'
