@@ -107,3 +107,7 @@ voici comment écrire dans un bloc code
 
 --- { "layout" : "center" }
 # Extras
+
+<span style="color:red">
+Text content
+</span>
