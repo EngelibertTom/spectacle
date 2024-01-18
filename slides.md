@@ -67,3 +67,9 @@ Tom Engélibert - Exercice Git
 --- { "layout" : "center" }
 
 # Pulling changes from remote
+
+--- { "layout" : "center" }
+
+# Text
+
+<h2>Comment faire un beau fichier ReadMe ?</h2>
