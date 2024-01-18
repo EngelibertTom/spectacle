@@ -32,3 +32,9 @@
 - git commit -m 'message'
 
 - git push 
+
+--- { "layout" : "center" }
+
+# Create a new branch
+
+- git branch 'name'
